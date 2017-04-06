@@ -17,7 +17,7 @@ import tweepy
 import twitter_info # Requires you to have a twitter_info file in this directory
 from bs4 import BeautifulSoup
 import re
-import pdb
+
 
 ## Tweepy authentication setup
 ## Fill these in in the twitter_info.py file
